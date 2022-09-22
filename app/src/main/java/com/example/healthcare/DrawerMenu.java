@@ -59,7 +59,7 @@ public class DrawerMenu extends AppCompatActivity implements NavigationView.OnNa
                 break;
 
             case R.id.nav_logout:
-               // FirebaseAuth.getInstance().signOut();
+                FirebaseAuth.getInstance().signOut();
                 startActivity(new Intent(this, Login.class));
                 overridePendingTransition(0,0);
                 break;
