@@ -20,8 +20,8 @@ public class Reminder extends DrawerMenu {
         allocateActivityTitle("Reminder");
 
         //change page
-        ImageButton btnAdd = findViewById(R.id.btnAdd);
-        btnAdd.setOnClickListener(new View.OnClickListener() {
+        ImageButton btnAddReminder = findViewById(R.id.btnAddReminder);
+        btnAddReminder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 AddRemind();
@@ -31,7 +31,7 @@ public class Reminder extends DrawerMenu {
 
     //page change
     private void AddRemind(){
-        Intent intent = new Intent(this, RemindActivity.class);
+        Intent intent = new Intent(Reminder.this, RemindActivity.class);
         startActivity(intent);
         finish();
     }

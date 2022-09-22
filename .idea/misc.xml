@@ -3,15 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_drawer.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/drawable/ic_baseline_bookmarks_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_drawer.xml" value="0.25" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_journal.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_profile.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_regis.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_remind.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/activity_reminder.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/content_layout.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/layout/header_menu.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/healthcare/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/User/StudioProjects/HealthCare/app/src/main/res/drawable/gambar.xml" value="0.353" />
         <entry key="..\:/Users/User/StudioProjects/HealthCare/app/src/main/res/drawable/logo_background.xml" value="0.353" />
         <entry key="..\:/Users/User/StudioProjects/HealthCare/app/src/main/res/layout/activity_drawer.xml" value="0.1" />

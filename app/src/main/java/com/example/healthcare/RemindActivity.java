@@ -87,7 +87,7 @@ public class RemindActivity extends DrawerMenu {
 
     //page change
     private void showReminderActivity(){
-        Intent intent = new Intent(this, Reminder.class);
+        Intent intent = new Intent(RemindActivity.this, Reminder.class);
         startActivity(intent);
         finish();
     }
